@@ -4,8 +4,8 @@
 I analyzed the full Netflix Movies & TV Shows dataset from Kaggle to understand how Netflix built and evolved its global content library — from its early U.S. catalog to its international expansion and the rise of Netflix Originals. By cleaning the data, categorizing ratings, and visualizing trends over time, a clear strategic story emerged.
 
 ## Open the .ipynb file in Jupyter or VS Code to explore the analysis. 
-➡️ [netflix_exploration.ipynb](https://github.com/07wilwhite11/Netflix_Analysis/blob/main/netflix_exploration.ipynb)
-➡️ [netflix_exploration.html](https://github.com/07wilwhite11/Netflix_Analysis/blob/main/netflix_exploration.html) (recommended for quick viewing)
+- [netflix_exploration.ipynb](https://github.com/07wilwhite11/Netflix_Analysis/blob/main/netflix_exploration.ipynb)
+- [netflix_exploration.html](https://github.com/07wilwhite11/Netflix_Analysis/blob/main/netflix_exploration.html) (recommended for quick viewing)
 
 ## Tech Stack
 **Languages & Tools**
